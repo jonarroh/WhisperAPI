@@ -3,7 +3,9 @@ __pycache__/
 *.pyc
 *.pyo
 front
-./frontt
+front/*
+frontt
+a.mp4
 
 # Archivos generados por el entorno virtual
 env/
