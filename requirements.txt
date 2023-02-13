@@ -1,0 +1,3 @@
+flask_cors
+flask
+git+https://github.com/openai/whisper.git

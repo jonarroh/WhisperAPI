@@ -1,0 +1,12 @@
+# Archivos generados por Python
+__pycache__/
+*.pyc
+*.pyo
+front
+./frontt
+
+# Archivos generados por el entorno virtual
+env/
+
+# Archivos generados por el administrador de paquetes pip
+pip-selfcheck.json
